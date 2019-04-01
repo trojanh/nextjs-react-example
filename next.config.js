@@ -14,7 +14,7 @@ module.exports = {
         "/": { page: "/" },
         "/about": { page: "/about" },
         "/quotes-list": { page: "/quotes-list" },
-        "/_error": { page: "/_error" }
+        "/error": { page: "/_error" }
       },
     );
 
