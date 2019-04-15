@@ -1,3 +1,6 @@
+Detailed Blog
+https://blog.kiprosh.com/show-custom-404-error-page-for-netlify-applications/
+
 [Preview Available on Netlify](https://netlfiy-react-example.netlify.com)
 
 
